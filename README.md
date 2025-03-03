@@ -65,11 +65,3 @@ Search by Make	Input "Toyota" & Search	Only Toyota cars appear
 🔹 Export inventory reports as PDF/Excel
 
 
-**🤝 Contributing**
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-
-**📜 License**
-
-This project is open-source and available under the MIT License
