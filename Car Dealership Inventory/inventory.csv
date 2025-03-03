@@ -1,0 +1,47 @@
+Make,Model,Year,Price,Status
+Mercedes,C-Class,2022,50000.0,Sold
+Chevrolet,Malibu,2020,22000.0,Available
+Nissan,Altima,2021,24000.0,Available
+Hyundai,Elantra,2018,15000.0,Sold
+Mazda,CX-5,2020,28000.0,Available
+Subaru,Forester,2019,26000.0,Available
+Kia,Sorento,2021,32000.0,Available
+Tesla,Model 3,2022,55000.0,Available
+Audi,A4,2020,42000.0,Available
+Volkswagen,Passat,2019,23000.0,Available
+Jeep,Wrangler,2021,35000.0,Available
+Porsche,Cayenne,2022,80000.0,Available
+Lexus,RX,2020,48000.0,Available
+Infiniti,Q50,2019,41000.0,Available
+Acura,TLX,2021,39000.0,Available
+Buick,Enclave,2020,33000.0,Sold
+Chrysler,300,2019,31000.0,Available
+Dodge,Charger,2022,42000.0,Available
+GMC,Yukon,2021,52000.0,Available
+Volvo,XC60,2020,46000.0,Available
+Jaguar,F-Pace,2021,65000.0,Available
+Land Rover,Range Rover,2022,90000.0,Available
+Mini,Cooper,2019,25000.0,Available
+Fiat,500X,2020,22000.0,Available
+Genesis,G70,2021,44000.0,Available
+Cadillac,Escalade,2022,95000.0,Available
+Mitsubishi,Outlander,2020,28000.0,Available
+Ram,1500,2021,45000.0,Available
+Alfa Romeo,Giulia,2019,47000.0,Available
+Lincoln,Navigator,2022,85000.0,Available
+Maserati,Ghibli,2021,75000.0,Available
+Ferrari,Portofino,2022,250000.0,Available
+Lamborghini,Urus,2021,230000.0,Available
+McLaren,720S,2022,300000.0,Available
+Bentley,Bentayga,2021,220000.0,Available
+Rolls-Royce,Ghost,2022,350000.0,Available
+Aston Martin,DBX,2021,200000.0,Available
+Bugatti,Chiron,2022,3000000.0,Available
+Honda,Accord,2018,19000.0,Available
+Chevrolet,Impala,2019,21000.0,Available
+Ford,Mustang,2020,37000.0,Available
+Toyota,Camry,2021,26000.0,Available
+Nissan,Maxima,2022,34000.0,Available
+Mazda,Mazda6,2020,24000.0,Available
+Volkswagen,Jetta,2018,17000.0,Available
+Toyota,Avalon,2021,23000.0,Available
