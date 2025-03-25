@@ -32,7 +32,7 @@ sh
 
 **Run Script**
    
-   python carinventory.py
+   python app.py
 
 **📋 Usage**
 
